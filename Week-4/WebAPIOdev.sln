@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebAPIOdev", "WebAPIOdev\WebAPIOdev.csproj", "{7E35DD2E-7749-4AEF-8B04-F5B0C1E44861}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAL", "DAL\DAL.csproj", "{8BF02A87-D148-4DC7-9688-66C678F72462}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EFLibCore", "EFLibCore\EFLibCore.csproj", "{DD4B0A3A-7D59-4F9C-8E66-3CB1D1E25AD2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7E35DD2E-7749-4AEF-8B04-F5B0C1E44861}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E35DD2E-7749-4AEF-8B04-F5B0C1E44861}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E35DD2E-7749-4AEF-8B04-F5B0C1E44861}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E35DD2E-7749-4AEF-8B04-F5B0C1E44861}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8BF02A87-D148-4DC7-9688-66C678F72462}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8BF02A87-D148-4DC7-9688-66C678F72462}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8BF02A87-D148-4DC7-9688-66C678F72462}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8BF02A87-D148-4DC7-9688-66C678F72462}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DD4B0A3A-7D59-4F9C-8E66-3CB1D1E25AD2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD4B0A3A-7D59-4F9C-8E66-3CB1D1E25AD2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD4B0A3A-7D59-4F9C-8E66-3CB1D1E25AD2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD4B0A3A-7D59-4F9C-8E66-3CB1D1E25AD2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F266F90C-C6FC-4F46-89B5-0D3C1BB34B65}
+	EndGlobalSection
+EndGlobal
